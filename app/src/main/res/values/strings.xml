@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Open Data Challenge</string>
+    <string name="railway_name">路線名</string>
+    <string name="search">検索</string>
+</resources>
